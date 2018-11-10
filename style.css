@@ -15,7 +15,7 @@ a{
 }
 
 h1, h2, h4 {
-    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
 p{
@@ -32,7 +32,7 @@ p{
 }
 
 .btn:hover {
-    background-color: orange !important;
+    background-color: lightblue !important;
     color: #3c3c3c !important;
     border: 1px solid #fff !important;
 }
@@ -40,8 +40,9 @@ p{
 /*Navigation*/
 .navbar {
     text-transform: uppercase;
-    font-family: 'PT Sans Narrow', Arial, sans-serif;
+   font-family: 'Righteous', cursive;
     font-weight: 500;
+     background-color: transparent;
 }
 
 /*Header*/
@@ -64,7 +65,7 @@ p{
 }
 
 a:hover {
-    background-color: orange;
+    background-color: lightblue;
 }
 
 /* ABOUT US */
